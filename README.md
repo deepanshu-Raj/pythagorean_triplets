@@ -18,3 +18,8 @@ Sample Input
 3
 Sample Output
 4 5
+
+
+
+
+thats all.
